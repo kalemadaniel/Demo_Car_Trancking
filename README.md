@@ -6,9 +6,9 @@ Le projet fonctionne avec **Java 8 ou ultérieur**, utilise le thème **Nimbus**
 
 ## Origine du projet et contributions
 
-**John Kaiser est le premier auteur de la base historique de ce simulateur.** Son nom figure dans les en-têtes des sources d’origine.
+**John Kaiser est le premier auteur de la base historique de ce simulateur.** 
 
-**J’ai repris et amélioré ce projet sous le nom d’Ulb-Kalema — Kalema Daniel Jonathan.** Mes améliorations portent notamment sur la correction des bugs, l’interface Nimbus, la gestion des véhicules par voie, la configuration des carrefours et les statistiques de circulation.
+**Kalema Daniel Jonathan a repris et amélioré ce projet ** Mes améliorations portent notamment sur la correction des bugs, l’interface Nimbus, la gestion des véhicules par voie, la configuration des carrefours et les statistiques de circulation.
 
 Ce projet conserve ainsi la reconnaissance du travail initial de **John Kaiser**, tout en présentant les évolutions apportées par **Ulb-Kalema**.
 
