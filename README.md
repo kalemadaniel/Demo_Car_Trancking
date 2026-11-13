@@ -18,6 +18,11 @@ Ce projet conserve ainsi la reconnaissance du travail initial de **John Kaiser**
 
 <img width="1027" height="622" alt="Capture d&#39;écran 2026-11-13 130734" src="https://github.com/user-attachments/assets/1fff1560-d171-47cd-89af-995a85be0c26" />
 
+Demo vidéo
+
+
+https://github.com/user-attachments/assets/f2ebd813-7d10-48b4-a96e-b95b17f15ab2
+
 
 ## Fonctionnalités
 
